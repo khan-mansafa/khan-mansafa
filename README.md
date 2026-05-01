@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khan Mansafa Feroz</h1>
-<h3 align="center">📊 Data Analyst | Excel • SQL • Python • Power BI</h3>
+<h3 align="center"> Data Analyst | Excel • SQL • Python • Power BI</h3>
 
 ---
 
@@ -26,9 +26,20 @@
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 
-<p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45"/><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="45" height="45"/><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" height="45"/><img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="45" height="45"/><img src="https://img.icons8.com/color/48/power-bi.png" width="45" height="45"/></p>
+<table>
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"><br>Python</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45"><br>MySQL</td>
+<td align="center"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="45"><br>SQL Server</td>
+<td align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45"><br>Git</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45"><br>VS Code</td>
+<td align="center"><img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="45"><br>Excel</td>
+<td align="center"><img src="https://img.icons8.com/color/48/power-bi.png" width="45"><br>Power BI</td>
+</tr>
+</table>
+
 
 
 ---
