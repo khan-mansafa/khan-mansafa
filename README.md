@@ -13,7 +13,7 @@
 
 ---
 
-* 📫 Reach me at: **[mansafakhan22@gmail.com](mailto:mansafakhan22@gmail.com)**
+* 📫 <b>Reach me at: </b> **[mansafakhan22@gmail.com](mailto:mansafakhan22@gmail.com)**
 
 ---
 
